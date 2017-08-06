@@ -47,7 +47,7 @@ Please see the manual on [Docker](https://docs.docker.com/get-started/#setup) on
 #### Terraform
 Terraform is a tool for building, changing, and versioning infrastructure safely and efficiently. Terraform can manage existing and popular service providers as well as custom in-house solutions.
 
-Please see the manual on [Terraform](hhttps://www.terraform.io/intro/getting-started/install.html) on how to install terraform.
+Please see the manual on [Terraform](https://www.terraform.io/intro/getting-started/install.html) on how to install terraform.
 
 ### Application
 Work in progress. Not completed yet
