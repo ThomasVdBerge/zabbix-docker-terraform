@@ -32,4 +32,5 @@ The Zabbix (Docker) on AWS Terraform repository is licensed under the terms of t
 ## Links
 
 * [Zabbix XXL](https://github.com/monitoringartist/zabbix-xxl)
+* [Stefan Radu Blog](https://rstefan.blogspot.be/2013/07/amazon-cloudwatch-query-tool-for-zabbix.html)
 
