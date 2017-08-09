@@ -1,0 +1,13 @@
+aws_region="eu-west-1"
+aws_profile="test-account"
+aws_instance_type="t2.small"
+aws_db_instance_type="t2.small"
+aws_db_backup_days=14
+aws_certificate_arn="arn:aws:acm:eu-west-1:435551404480:certificate/549b9a5a-a1aa-4b27-be60-e6d3a7f3d813"
+aws_route53_hosted_zone_id="ZE1U20IED0CW7"
+aws_high_availability=true
+db_password="changeme"
+ip_ssh_access="192.168.0.1/32"
+public_key="ssh-rsa MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCqGKukO1De7zhZj6+H0qtjTkVxwTCpvKe4eCZ0FPqri0cb2JZfXJ/DgYSF6vUpwmJG8wVQZKjeGcjDOL5UlsuusFncCzWBQ7RKNUSesmQRMSGkVb1/3j+skZ6UtW+5u09lHNsj6tQ51s1SPrCBkedbNf0Tp0GbMJDyR4e9T04ZZwIDAQAB"
+aws_db_backup_days=0
+domain="zabbix.example.com"
