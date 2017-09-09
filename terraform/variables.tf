@@ -24,10 +24,10 @@ variable "aws_db_backup_days" {
 }
 
 variable "aws_ami" {
-  description = "amzn-ami-2017.03.d-amazon-ecs-optimized. See http://docs.aws.amazon.com/AmazonECS/latest/developerguide/ecs-optimized_AMI.html"
+  description = "amzn-ami-2017.03.f-amazon-ecs-optimized. See http://docs.aws.amazon.com/AmazonECS/latest/developerguide/ecs-optimized_AMI.html"
   type = "map"
   default = {
-    eu-west-1 = "ami-809f84e6"
+    eu-west-1 = "ami-8fcc32f6"
   }
 }
 
