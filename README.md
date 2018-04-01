@@ -19,7 +19,7 @@ Zabbix (Docker) on AWS ECS with Terraform
 
 ## General
 ### What is this?
-This repository contains an easy to setup working zabbix HA cluster which runs on AWS ECS. The blogpost about this repository can be found ![here](https://thomasvdberge.github.io/tutorial/2018/03/20/setting-up-zabbix-on-aws-with-terraform.html)
+This repository contains an easy to setup working zabbix HA cluster which runs on AWS ECS. The blogpost about this repository can be found [here](https://thomasvdberge.github.io/tutorial/2018/03/20/setting-up-zabbix-on-aws-with-terraform.html)
 ### AWS Stack
 The following things are created when applying the terraform configuration:
 - IAM
