@@ -48,6 +48,7 @@ variable "aws_ecs_task_cpu" {
     t2.nano = 1024
     t2.micro = 1024
     t2.small = 1024
+    t2.medium = 2048
   }
 }
 
@@ -58,6 +59,7 @@ variable "aws_ecs_task_memory" {
     t2.nano = 489
     t2.micro = 993
     t2.small = 2001
+    t2.medium = 3900
   }
 }
 
